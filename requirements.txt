@@ -1,0 +1,15 @@
+# --- core retrieval stack ---
+pypdf>=4.0
+rank-bm25>=0.2.2
+nltk>=3.8                    # Porter stemmer for BM25 tokenisation (no corpus download needed)
+sentence-transformers>=3.0   # bi-encoder embeddings + CrossEncoder reranker
+faiss-cpu>=1.8
+numpy>=1.24
+requests>=2.31
+tqdm>=4.66
+
+# --- LLM backends (install the one you use) ---
+anthropic>=0.40              # LLM_PROVIDER=anthropic (hosted API)
+transformers>=4.44           # LLM_PROVIDER=hf (local open-weights model)
+torch>=2.1
+accelerate>=0.33

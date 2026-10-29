@@ -1,0 +1,30 @@
+{
+  "nist_ai_rmf_1_0.pdf": {
+    "title": "NIST AI Risk Management Framework 1.0 (NIST AI 100-1)",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"
+  },
+  "nist_ai_600_1_genai_profile.pdf": {
+    "title": "NIST AI 600-1: Generative AI Profile",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+  },
+  "nist_csf_2_0.pdf": {
+    "title": "NIST Cybersecurity Framework 2.0 (CSWP 29)",
+    "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf"
+  },
+  "eu_ai_act_2024_1689.pdf": {
+    "title": "EU AI Act, Regulation (EU) 2024/1689",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  "eu_gdpr_2016_679.pdf": {
+    "title": "GDPR, Regulation (EU) 2016/679",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679"
+  },
+  "eu_dora_2022_2554.pdf": {
+    "title": "DORA, Regulation (EU) 2022/2554 (digital operational resilience)",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2554"
+  },
+  "bcbs_239_risk_data_aggregation.pdf": {
+    "title": "BCBS 239: Principles for effective risk data aggregation and risk reporting",
+    "url": "https://www.bis.org/publ/bcbs239.pdf"
+  }
+}
